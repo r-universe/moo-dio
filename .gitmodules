@@ -1,5 +1,8 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
+	url = https://github.com/moo-dio/moo-dio.r-universe.dev
 	branch = HEAD
+[submodule "AIGRA"]
+	path = AIGRA
+	url = https://github.com/MOO-DIO/AIGRA
+	branch = main
