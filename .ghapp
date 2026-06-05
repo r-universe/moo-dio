@@ -1,0 +1,10 @@
+{
+  "id": 138182348,
+  "created_at": "2026-06-05T10:17:08.000Z",
+  "repository_selection": "selected",
+  "permissions": {
+    "metadata": "read",
+    "statuses": "write"
+  },
+  "repositories": ["moo-dio.r-universe.dev"]
+}
